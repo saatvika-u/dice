@@ -1,6 +1,6 @@
 # Dice Roller
 
-Welcome to Dice Roller, a simple webpage that lets you roll one or more six-sided dice with a single click. It displays both the rolled values and their corresponding dice faces.
+Welcome to Dice Roller, select the number of dice and roll.
 
 ## Media
 
@@ -8,4 +8,4 @@ Welcome to Dice Roller, a simple webpage that lets you roll one or more six-side
 
 ## See it live!
 
-![Dice Roller Demo](media/demo.gif)Welcome to Dice Roller! Select the number of dice and roll.
+![Dice Roller Demo](media/demo.gif)
